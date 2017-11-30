@@ -18,5 +18,4 @@ export default class BookList extends Component {
 			</ul>
 		);
 	}
-
 }
