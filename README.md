@@ -5,8 +5,8 @@
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/redux-starter-app.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/uidevperson/redux-starter-app.git
+> cd redux-starter-app
 > npm install
 > npm start
 ```
